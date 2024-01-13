@@ -1,0 +1,10 @@
+Disability (sakat)
+Healthy (sağlıklı)
+NORMAL (normal)
+Osteochondrosis
+Osteoporosis (kan erimesi)
+Other (diğer)
+PNEUMONIA (akciğer iltihaplanması)
+Scoliosis (Skolyoz)
+Spondylolisthesis (kırık nedenyle kemik kayması)
+Vertebral Compression Fracture (omurga gövdesinin baskı altında ezilerek inceldiği kırıklardır)
